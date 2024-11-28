@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28.11.2024
+## Register Number:24013065
+## Name:MIRTYUNJAY S
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -34,6 +34,44 @@ Here are **5 very short ideas** for the Alumni Association platform:
 
 ## Technology Stack
 
+---
+
+ **Frontend:**
+- **Web**: ReactJS / Vue.js, HTML5, CSS3, Bootstrap
+- **Mobile**: React Native / Flutter
+
+ **Backend:**
+- **Node.js / Express.js**, Django/Flask (Python)
+- **Authentication**: JWT
+
+ **Database:**
+- **MySQL / PostgreSQL**, MongoDB (optional)
+
+ **Cloud & Hosting:**
+- **AWS / Google Cloud**, S3 / Cloud Storage, Cloudflare
+
+ **Payment Gateway:**
+- **Stripe / PayPal**
+
+ **Dev Tools:**
+- **Git**, **CI/CD** (GitHub Actions)
+
+ **Security:**
+- **SSL/TLS**, **Helmet.js** (Node), Django Security
+
+ **Notifications:**
+- **SendGrid**, **Firebase Cloud Messaging**
+
+---
+
 
 ## Dependencies
+
+---
+
+### **Frontend:**
+- **ReactJS / Vue.js** (Web)
+- **React Native / Flutter** (Mobile)
+- **Redux / Context API** (State management)
+- **Axios / Fetch API** (API requests)
 
