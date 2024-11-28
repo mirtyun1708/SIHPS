@@ -10,12 +10,26 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+Here are **5 very short ideas** for the Alumni Association platform:
+
+1. **Alumni Networking Hub:** A platform for alumni to connect based on shared interests, industries, and locations for mentorship and professional opportunities.
+
+2. **Donation Portal:** An easy-to-use system for alumni to donate to college initiatives, with tracking of contributions and project updates.
+
+3. **Job Portal:** A space where alumni can post and search for job opportunities within the alumni network, fostering career growth.
+
+4. **Event Management:** Tools to organize and manage alumni events, reunions, webinars, and career development sessions.
+
+5. **Success Stories Section:** A dedicated space to showcase notable alumni achievements, inspiring current students and fellow graduates.
 
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-11-28 134607](https://github.com/user-attachments/assets/c8bc4227-c981-4934-93e2-70efde23f1f0)
 
 
 ## Use Cases
+![{C1816353-0B20-4D25-8913-4AE0377EFA92}](https://github.com/user-attachments/assets/634c6fc9-222d-4d38-aec4-bbc8d2c8b4f1)
+
 
 
 ## Technology Stack
